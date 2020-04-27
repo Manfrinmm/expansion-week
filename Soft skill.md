@@ -1,5 +1,3 @@
-São habilidades além do core.
-
 - É necessário vivenciar para poder aprender:
   - Entender o que está acontecendo.
   - Ter foco nessa vivência.
