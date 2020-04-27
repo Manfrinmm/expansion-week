@@ -26,11 +26,11 @@ Como se organizar:
 
 ## Trabalho em equipe:
 
-- Traços de de personalidade diferentes (O quanto você é sensível a dopamina):
+- Traços de personalidade diferentes (O quanto você é sensível a dopamina):
   - Introversão: Existem pessoas que não gostam de ficar sentadas em grupo em tempo todo, pois elas são mais sensíveis a dopamina e um pouco dessa sensação de grupo já é o suficiente.
   - Extroversão: Essas pessoas tem pouca sensibilidade a dopamina, então elas precisam de muita dopamina (interação) para se satisfazer.
 
-É importante saber isso para saber respeitar os limites da pessoa. Como consequência a adaptação para trabalhar em diferentes grupos.
+É importante saber isso para respeitar os limites das pessoas. Como consequência,cria-se a adaptação para trabalhar em diferentes grupos.
 
 ## Adaptação:
 
