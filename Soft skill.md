@@ -73,6 +73,8 @@ Quem recebe melhor críticas, tendem a crescer mais rápido.
 
 ## Comunicação:
 
+Comunicação não basta apenas intenção e sim como utilizar os três componentes (verbal, vocal e corporal).
+
 ### Comunicar-se de maneira assertiva é fazer a outra pessoa entender o que você está pensando, ou seja, a ideia que você está tentando transmitir.
 
 - O problema disso é que as pessoas tiveram experiências diferentes e por conta disso não é fácil transmitir as nossas ideias.
@@ -99,10 +101,59 @@ Na comunicação não há certo e errado. Precisa entender o contexto para usar 
 
 Tudo na comunicação é ferramenta e o ato de se comunicar é estrategia.
 
+- Não fale tudo no mesmo tom, dê ênfase nas partes mais importantes.
+
 ### Comunicação em três pontos:
 
 Todos eles devem ser altamente personalizáveis. Isso ajuda a conectar pessoas.
 
-- Componente verbal: É a escolha das palavras.
-- Componente voz: É a intonação, voz, pausa, ritmo.
+- Componente verbal:
+  - Escolha das palavras (cuidado com techniquês).
+  - Organização das ideias.
+  - Estrutura lógica (começo, meio e fim).
+  - Adequação do conteúdo com a vaga almejada (dica: liste todas as suas experiências antes e escolha as mais adequadas).
+  - Objetividade.
+  - O necessário, somente o necessário.
+- Componente vocal:
+  - Dicção.
+  - Ritmo de fala.
+  - Pausas.
+  - Entonação.
+  - Gestos.
+  - Movimentação do corpo.
+  - Expressão facial.
+  - Escolha da vestimenta.
 - Componente corporal: Como vai se expressar.
+
+Importância sobre cada componente para entender uma pessoa:
+
+- Verbal -> 7%
+- Vocal -> 38%
+- Corporal -> 55%
+
+Todos os componentes devem estar em sitônia, caso não esteja irá gerar incongruência.
+
+### Comunicação assertiva
+
+- Ter congruência nos três componentes da comunicação
+
+### Ruídos da comunicação
+
+Semântico:
+
+- É o que mais acontece no meio da tecnologia.
+- Muitos termos técnicos dificultam a comunicação.
+
+### Dicção
+
+- Pode ir treinando a dicção:
+  - Falar bastante.
+  - Trava linguas:
+    - ​"O rato roeu a roupa do Rei de roma, a rainha com raiva resolveu remendar."
+    - "​Casa suja chão sujo".
+    - "Em rápido rapto, um rápido rato raptou três ratos sem deixar rastros".
+    - "Trazei três pratos de trigo para três tigres tristes comerem".
+    - "O padre pouca capa tem, porque pouca capa compra".
+    - "Bagre branco, branco bagre".
+    - "O bispo de Constantinopla, é um bom desconstantinopolitanizador. Quem o desconstantinopolitanizar, um bom desconstantinopolitanizador será".
+    - "O desinquivincavacador das caravelarias desinquivincavacaria as cavidades que deveriam ser desinquivincavacadas".
